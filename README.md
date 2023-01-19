@@ -1,4 +1,4 @@
-# 💻 dylantran.dev
+# 💻 Dylan Tran Dev
 
 dylantran.dev is a personal website that I created to showcase my projects and skills. It is built using Three.js to utilize 3D models, bundled with Vite.js, and deployed using Vercel.
 
@@ -6,7 +6,8 @@ dylantran.dev is a personal website that I created to showcase my projects and s
 
 ## Screenshot
 
-![dylantran.dev Landing Page](dist\assets\dylantrandev-img.png)
+(![dylantran.dev Landing Page](https://user-images.githubusercontent.com/103216050/213401520-46b37645-4275-4c13-b6db-7162cef41c98.gif)
+)
 
 
 ### Technology Overview
