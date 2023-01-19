@@ -473,3 +473,10 @@ svg{
   }
 }
 
+@media only screen and (max-width: 600px) {
+  .hero-main-description {
+    font-size: 14px;
+    padding: 20px;
+  }
+}
+
