@@ -34,6 +34,6 @@ dylantran.dev is a personal website that I created to showcase my projects and s
   3. Learned how to use Vite.js for the backend in order to hot-reload code.
   
 ## Live Site
-* The live version of the app can be viewed ([https://www.dylantran.dev/](here)).
+* The live version of the app can be viewed ([here](https://www.dylantran.dev/)).
 
 
